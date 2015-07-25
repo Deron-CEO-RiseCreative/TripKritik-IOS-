@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SearchResultViewController loadPlacesToMap]:SearchResultViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.m_Results">
+            </PersistentString>
+            <PersistentString
+               value = "_mapAnnotations">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
